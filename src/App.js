@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      hello world
+     <p>React Redux application</p>
     </div>
   );
 }
